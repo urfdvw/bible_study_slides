@@ -9,6 +9,10 @@ section {
 }
 </style>
 
+# [诗歌](https://docs.google.com/presentation/d/1DJrwThRDCiGc9S3-w6sFMA12yz03bftJrkT4fZdSypU/edit#slide=id.g2192697ba72_0_7)
+
+---
+
 # 经文
 <!-- _class: invert -->
 
